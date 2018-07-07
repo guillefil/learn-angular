@@ -2,6 +2,11 @@ body {
   padding-bottom: 50px;
 }
 
+.img-logo
+{
+  width: 120px;
+}
+
 .main-containter{
     margin-top: 20px;
 }/* You can add global styles to this file, and also import other style files */
